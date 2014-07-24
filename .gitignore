@@ -1,2 +1,2 @@
 .DS_Store
-keepass.kdb.lock
+*.kdb.lock
